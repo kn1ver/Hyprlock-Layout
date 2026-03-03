@@ -1,5 +1,5 @@
 ### My layout prewivew
-[[screenshot.png](https://github.com/kn1ver/Hyprlock-Layout/blob/05b7f366f006bc7120b432faec7cda1de18de524/screenshot.png)]]
+![Screenshot](https://github.com/kn1ver/Hyprlock-Layout/blob/05b7f366f006bc7120b432faec7cda1de18de524/screenshot.png)
 
 ### Installation and settings
 ##### For install just copy .config folder and past it to /home
