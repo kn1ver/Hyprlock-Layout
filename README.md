@@ -1,1 +1,1 @@
-Changes is in master branch
+Changes in the master branch
