@@ -1,4 +1,15 @@
-Variables you should to change for stable work:
+### My layout prewivew
+[[screenshot.png]]
+
+### Installation and settings
+##### For install just copy .config folder and past it to /home
+```
+git clone https://github.com/kn1ver/Hyprlock-Layout.git
+cd Hyprlock-Layout
+cp -r .config/ ~/
+```
+
+##### Variables you should to change for stable work:
 - at .config/hyprlock/scripts/weather.sh: OpenWeatherMap API Key [You can get it on OpenWeatherMap](https://openweathermap.org/)
 - at .config/hyprlock/scripts/lang_layout.sh: .keyboard[i] , where i - number of your keyboard from `hyprctl devices -j`
 - at .config/hyprlock/layouts/mylayout/player.conf: monitors from `hyprctl monitors`
