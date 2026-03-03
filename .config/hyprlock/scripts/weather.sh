@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # CONFIG
-API_KEY=""
-CITY=""
+API_KEY="$1"
+CITY="$2"
 UNITS="metric"
 LANG="en"
 
