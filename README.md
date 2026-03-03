@@ -1,4 +1,4 @@
-### My layout prewivew
+### My layout preview
 ![Screenshot](https://github.com/kn1ver/Hyprlock-Layout/blob/05b7f366f006bc7120b432faec7cda1de18de524/screenshot.png)
 
 ### Installation and settings
